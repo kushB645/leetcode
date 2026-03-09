@@ -7,7 +7,7 @@ public:
             sum += nums[i];
 
         double maxsum = sum;
-
+// new element enters a window
         for (int i = k; i < nums.size(); i++) {
             sum += nums[i] - nums[i - k];
             maxsum = max(maxsum, sum);
