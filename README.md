@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kushB645/leetcode/tree/master/0011-container-with-most-water) |
+| [0643-maximum-average-subarray-i](https://github.com/kushB645/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kushB645/leetcode/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kushB645/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
