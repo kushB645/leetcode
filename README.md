@@ -24,6 +24,7 @@
 | [0056-merge-intervals](https://github.com/kushB645/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kushB645/leetcode/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/kushB645/leetcode/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/kushB645/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kushB645/leetcode/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kushB645/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kushB645/leetcode/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0056-merge-intervals](https://github.com/kushB645/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/kushB645/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kushB645/leetcode/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +75,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kushB645/leetcode/tree/master/0053-maximum-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kushB645/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
