@@ -21,6 +21,7 @@
 | [0011-container-with-most-water](https://github.com/kushB645/leetcode/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/kushB645/leetcode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/kushB645/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/kushB645/leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushB645/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/kushB645/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kushB645/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
