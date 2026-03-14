@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/kushB645/leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kushB645/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/kushB645/leetcode/tree/master/0141-linked-list-cycle) |
+| [0707-design-linked-list](https://github.com/kushB645/leetcode/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushB645/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/kushB645/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/kushB645/leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
