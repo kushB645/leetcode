@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/kushB645/leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kushB645/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/kushB645/leetcode/tree/master/0141-linked-list-cycle) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushB645/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kushB645/leetcode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/kushB645/leetcode/tree/master/0141-linked-list-cycle) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushB645/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
