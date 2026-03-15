@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushB645/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/kushB645/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/kushB645/leetcode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
