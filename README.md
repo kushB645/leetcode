@@ -32,6 +32,7 @@
 | [0057-insert-interval](https://github.com/kushB645/leetcode/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/kushB645/leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/kushB645/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/kushB645/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kushB645/leetcode/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kushB645/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kushB645/leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/kushB645/leetcode/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
