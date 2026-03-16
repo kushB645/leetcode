@@ -36,6 +36,7 @@
 | [0605-can-place-flowers](https://github.com/kushB645/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/kushB645/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kushB645/leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/kushB645/leetcode/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kushB645/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
@@ -106,4 +107,5 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kushB645/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/kushB645/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
