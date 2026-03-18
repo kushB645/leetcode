@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kushB645/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kushB645/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/kushB645/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kushB645/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kushB645/leetcode/tree/master/0056-merge-intervals) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kushB645/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kushB645/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kushB645/leetcode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/kushB645/leetcode/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/kushB645/leetcode/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushB645/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -71,6 +73,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kushB645/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kushB645/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/kushB645/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kushB645/leetcode/tree/master/0242-valid-anagram) |
