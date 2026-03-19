@@ -31,6 +31,7 @@
 | [0053-maximum-subarray](https://github.com/kushB645/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kushB645/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kushB645/leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/kushB645/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kushB645/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/kushB645/leetcode/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/kushB645/leetcode/tree/master/0217-contains-duplicate) |
@@ -124,9 +125,11 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kushB645/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kushB645/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kushB645/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kushB645/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
