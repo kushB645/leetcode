@@ -5,7 +5,7 @@ public:
      for (int i = index; i < nums.size(); i++) {
             // skip duplicates
             if (i > index && nums[i] == nums[i - 1]) continue;
-
+//it check same element on same level
             temp.push_back(nums[i]);
             solve(i + 1, nums, temp, ans);
             temp.pop_back();
