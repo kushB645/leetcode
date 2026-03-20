@@ -7,8 +7,6 @@ void solve(int i, vector<int>& candidates, int target, vector<int>& temp,
                     ans.push_back(temp);
                     return;
                 }
-                if(i>=candidates.size() || target<0)
-                return;
                 for(int j=i;j<candidates.size();j++)
                 {
                     if(j>i && candidates[j]==candidates[j-1])
