@@ -76,6 +76,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushB645/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kushB645/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/kushB645/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/kushB645/leetcode/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/kushB645/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kushB645/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/kushB645/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kushB645/leetcode/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kushB645/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -128,6 +130,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kushB645/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kushB645/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kushB645/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kushB645/leetcode/tree/master/0046-permutations) |
