@@ -28,6 +28,7 @@
 | [0011-container-with-most-water](https://github.com/kushB645/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kushB645/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/kushB645/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/kushB645/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kushB645/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kushB645/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kushB645/leetcode/tree/master/0046-permutations) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushB645/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/kushB645/leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/kushB645/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kushB645/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kushB645/leetcode/tree/master/0242-valid-anagram) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kushB645/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/kushB645/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kushB645/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kushB645/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kushB645/leetcode/tree/master/0046-permutations) |
@@ -152,4 +155,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushB645/leetcode/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kushB645/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
