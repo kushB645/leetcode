@@ -119,6 +119,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kushB645/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kushB645/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -127,6 +128,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kushB645/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/kushB645/leetcode/tree/master/0707-design-linked-list) |
 ## Prefix Sum
 |  |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushB645/leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/kushB645/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Matrix
 |  |
 | ------- |
