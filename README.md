@@ -112,6 +112,7 @@
 | [0022-generate-parentheses](https://github.com/kushB645/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kushB645/leetcode/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0688-knight-probability-in-chessboard](https://github.com/kushB645/leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kushB645/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
