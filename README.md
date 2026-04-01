@@ -16,6 +16,7 @@
 | [0002-add-two-numbers](https://github.com/kushB645/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kushB645/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/kushB645/leetcode/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kushB645/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0078-subsets](https://github.com/kushB645/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kushB645/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/kushB645/leetcode/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kushB645/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/kushB645/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/kushB645/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kushB645/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushB645/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kushB645/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/kushB645/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Matrix
 |  |
