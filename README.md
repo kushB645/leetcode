@@ -17,6 +17,7 @@
 | [0007-reverse-integer](https://github.com/kushB645/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/kushB645/leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushB645/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0319-bulb-switcher](https://github.com/kushB645/leetcode/tree/master/0319-bulb-switcher) |
 ## Recursion
 |  |
 | ------- |
@@ -165,4 +166,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kushB645/leetcode/tree/master/0037-sudoku-solver) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/kushB645/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
