@@ -36,6 +36,7 @@
 | [0046-permutations](https://github.com/kushB645/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kushB645/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kushB645/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kushB645/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kushB645/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kushB645/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/kushB645/leetcode/tree/master/0078-subsets) |
@@ -168,8 +169,13 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kushB645/leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/kushB645/leetcode/tree/master/0054-spiral-matrix) |
 ## Brainteaser
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/kushB645/leetcode/tree/master/0319-bulb-switcher) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kushB645/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
