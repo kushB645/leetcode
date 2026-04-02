@@ -145,6 +145,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kushB645/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kushB645/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/kushB645/leetcode/tree/master/0707-design-linked-list) |
 ## Prefix Sum
@@ -175,6 +176,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushB645/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushB645/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/kushB645/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kushB645/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Matrix
 |  |
