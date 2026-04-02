@@ -53,6 +53,7 @@
 | [0704-binary-search](https://github.com/kushB645/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kushB645/leetcode/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kushB645/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kushB645/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0125-valid-palindrome](https://github.com/kushB645/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kushB645/leetcode/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/kushB645/leetcode/tree/master/0455-assign-cookies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kushB645/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushB645/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -79,6 +81,7 @@
 | [0141-linked-list-cycle](https://github.com/kushB645/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kushB645/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kushB645/leetcode/tree/master/0242-valid-anagram) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kushB645/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 | [0242-valid-anagram](https://github.com/kushB645/leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kushB645/leetcode/tree/master/0455-assign-cookies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kushB645/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
 | ------- |
