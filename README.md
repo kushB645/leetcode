@@ -48,6 +48,7 @@
 | [0238-product-of-array-except-self](https://github.com/kushB645/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kushB645/leetcode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kushB645/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0605-can-place-flowers](https://github.com/kushB645/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/kushB645/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kushB645/leetcode/tree/master/0682-baseball-game) |
@@ -66,6 +67,7 @@
 | [0125-valid-palindrome](https://github.com/kushB645/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kushB645/leetcode/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/kushB645/leetcode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kushB645/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/kushB645/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/kushB645/leetcode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushB645/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -87,6 +89,7 @@
 | [0141-linked-list-cycle](https://github.com/kushB645/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kushB645/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kushB645/leetcode/tree/master/0242-valid-anagram) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kushB645/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushB645/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -108,6 +111,7 @@
 | [0242-valid-anagram](https://github.com/kushB645/leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kushB645/leetcode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kushB645/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/kushB645/leetcode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushB645/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -119,6 +123,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kushB645/leetcode/tree/master/0035-search-insert-position) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kushB645/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/kushB645/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
