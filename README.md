@@ -77,6 +77,7 @@
 | [0680-valid-palindrome-ii](https://github.com/kushB645/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/kushB645/leetcode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kushB645/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kushB645/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kushB645/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -108,6 +109,7 @@
 | [0125-valid-palindrome](https://github.com/kushB645/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kushB645/leetcode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/kushB645/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kushB645/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Sorting
 |  |
 | ------- |
