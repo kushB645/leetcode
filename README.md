@@ -53,6 +53,7 @@
 | [0238-product-of-array-except-self](https://github.com/kushB645/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kushB645/leetcode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/kushB645/leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/kushB645/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kushB645/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0605-can-place-flowers](https://github.com/kushB645/leetcode/tree/master/0605-can-place-flowers) |
@@ -79,6 +80,7 @@
 | [0125-valid-palindrome](https://github.com/kushB645/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kushB645/leetcode/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/kushB645/leetcode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/kushB645/leetcode/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kushB645/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/kushB645/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/kushB645/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -128,6 +130,7 @@
 | [0242-valid-anagram](https://github.com/kushB645/leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kushB645/leetcode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/kushB645/leetcode/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kushB645/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/kushB645/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/kushB645/leetcode/tree/master/0881-boats-to-save-people) |
@@ -148,6 +151,7 @@
 | [0035-search-insert-position](https://github.com/kushB645/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kushB645/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kushB645/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0475-heaters](https://github.com/kushB645/leetcode/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kushB645/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/kushB645/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kushB645/leetcode/tree/master/0704-binary-search) |
