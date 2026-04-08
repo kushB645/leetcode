@@ -30,6 +30,7 @@
 | [0011-container-with-most-water](https://github.com/kushB645/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kushB645/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kushB645/leetcode/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kushB645/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kushB645/leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/kushB645/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kushB645/leetcode/tree/master/0039-combination-sum) |
@@ -143,6 +144,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kushB645/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kushB645/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kushB645/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kushB645/leetcode/tree/master/0209-minimum-size-subarray-sum) |
