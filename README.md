@@ -151,6 +151,7 @@
 | [0035-search-insert-position](https://github.com/kushB645/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kushB645/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kushB645/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/kushB645/leetcode/tree/master/0278-first-bad-version) |
 | [0475-heaters](https://github.com/kushB645/leetcode/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kushB645/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/kushB645/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -239,4 +240,8 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/kushB645/leetcode/tree/master/0658-find-k-closest-elements) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kushB645/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
