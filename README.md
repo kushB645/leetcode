@@ -111,6 +111,7 @@
 | [0678-valid-parenthesis-string](https://github.com/kushB645/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/kushB645/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/kushB645/leetcode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kushB645/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0242-valid-anagram](https://github.com/kushB645/leetcode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/kushB645/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/kushB645/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kushB645/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kushB645/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Sorting
 |  |
@@ -246,6 +248,7 @@
 | [0234-palindrome-linked-list](https://github.com/kushB645/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/kushB645/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/kushB645/leetcode/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kushB645/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
 | ------- |
