@@ -9,9 +9,8 @@ stack<int>minst;
     void push(int val) {
         st.push(val);
 
-        if(minst.empty()||val<=minst.top())
-        {
-            minst.push(val);
+        if(minst.empty() || val<=minst.top()){
+        minst.push(val);
         }
         else{
             minst.push(minst.top());
