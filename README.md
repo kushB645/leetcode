@@ -130,6 +130,7 @@
 | [0008-string-to-integer-atoi](https://github.com/kushB645/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/kushB645/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kushB645/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kushB645/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kushB645/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kushB645/leetcode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/kushB645/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -192,6 +193,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kushB645/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kushB645/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kushB645/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/kushB645/leetcode/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/kushB645/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/kushB645/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushB645/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kushB645/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushB645/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kushB645/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kushB645/leetcode/tree/master/0225-implement-stack-using-queues) |
