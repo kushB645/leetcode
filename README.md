@@ -72,6 +72,7 @@
 | [0704-binary-search](https://github.com/kushB645/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kushB645/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kushB645/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/kushB645/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kushB645/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kushB645/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/kushB645/leetcode/tree/master/0881-boats-to-save-people) |
@@ -251,6 +252,7 @@
 | [0234-palindrome-linked-list](https://github.com/kushB645/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/kushB645/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/kushB645/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/kushB645/leetcode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kushB645/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
@@ -275,4 +277,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kushB645/leetcode/tree/master/0278-first-bad-version) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kushB645/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
