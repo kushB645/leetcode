@@ -22,6 +22,7 @@
 | [0050-powx-n](https://github.com/kushB645/leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kushB645/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0319-bulb-switcher](https://github.com/kushB645/leetcode/tree/master/0319-bulb-switcher) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kushB645/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -284,4 +285,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/kushB645/leetcode/tree/master/0739-daily-temperatures) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kushB645/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
